@@ -43,6 +43,4 @@ The project has been released under the `MIT License`_.
 .. _Coveralls: https://coveralls.io
 .. _GitHub project page: https://github.com/Bernardo-MG/jupyter-notebook-example
 .. _project issues tracker: https://github.com/Bernardo-MG/jupyter-notebook-example/issues
-.. _latest docs: http://docs.bernardomg.com/jupyter-notebook-example
-.. _development docs: http://docs.bernardomg.com/development/jupyter-notebook-example
 .. _MIT License: http://www.opensource.org/licenses/mit-license.php
