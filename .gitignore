@@ -69,3 +69,6 @@ target/
 .idea/
 .idea_modules/
 out/
+
+# Jupyter Notebook
+.ipynb_checkpoints

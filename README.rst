@@ -4,6 +4,10 @@ Jupyter Notebook Example
 
 Example for a Jupyter Notebook.
 
+Additional info:
+- https://github.com/feststelltaste/software-analytics-workshop
+- https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+
 Features
 --------
 
