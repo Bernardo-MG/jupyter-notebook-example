@@ -1,0 +1,105 @@
+team,title,min,max,cost,ma,st,ag,av,skills,normal,double
+Amazon,Tribal Linewoman,0,16,50000,6,3,3,7,Dodge,G,ASP
+Amazon,Eagle Warrior Throwers,0,2,70000,6,3,3,7,Dodge|Pass,GP,AS
+Amazon,Piranha Warrior Catchers,0,2,70000,6,3,3,7,Catch|Dodge,GA,SP
+Amazon,Koka Kalim Blitzers,0,4,90000,6,3,3,7,Block|Dodge,GS,AP
+Chaos Dwarf,Hobgoblin Runners,0,16,40000,6,3,3,7,,G,ASP
+Chaos Dwarf,Chaos Dwarf Blockers,0,6,70000,4,3,2,9,Block|Tackle|Thick Skull,GS,APM
+Chaos Dwarf,Bull Centaur Blitzers,0,2,130000,6,4,2,9,Sprint|Sure Feet|Thick Skull,GS,AP
+Chaos Dwarf,Enslaved Minotaur,0,1,150000,5,5,2,8,Frenzy|Horns|Loner|Mighty Blow|Thick Skull|Wild Animal,S,GAPM
+Chaos Renegades,Renegade Human Lineman,0,12,50000,6,3,3,8,None,GSPM,A
+Chaos Renegades,Renegade Goblin,0,1,40000,6,2,3,7,Animosity|Dodge|Right Stuff|Stunty,AM,GSP
+Chaos Renegades,Renegade Orc Lineman,0,1,50000,5,3,3,9,Animosity,GM,ASP
+Chaos Renegades,Renegade Skaven Lineman,0,1,50000,7,3,3,7,Animosity,GM,ASP
+Chaos Renegades,Renegade Dark Elf Lineman,0,1,70000,6,3,4,8,Animosity,GAM,SP
+Chaos Renegades,Troll,0,1,110000,4,5,1,9,Always Hungry|Loner|Mighty Blow|Really Stupid|Regeneration|Throw Team-mate,S,GAPM
+Chaos Renegades,Ogre,0,1,140000,5,5,2,9,Bone-head|Loner|Mighty Blow|Thick Skull|Throw Team-mate,S,GAPM
+Chaos Renegades,Minotaur,0,1,150000,5,5,2,8,Frenzy|Horns|Loner|Mighty Blow|Thick Skull|Wild Animal,S,GAPM
+Chaos Chosen,Beastman Runners,0,16,60000,6,3,3,8,Horns,GSM,AP
+Chaos Chosen,Chosen Blockers,0,4,100000,5,4,3,9,,GSM,AP
+Chaos Chosen,Minotaur,0,1,150000,5,5,2,8,Frenzy|Horns|Loner|Mighty Blow|Thick Skull|Wild Animal,SM,
+Dark Elf,Linemen,0,16,70000,6,3,4,8,,GA,SP
+Dark Elf,Runners,0,2,80000,7,3,4,7,Dump-off,GAP,S
+Dark Elf,Assassins,0,2,90000,6,3,4,7,Shadowing|Stab,GA,SP
+Dark Elf,Blitzers,0,4,100000,7,3,4,8,Block,GA,SP
+Dark Elf,Witch Elves,0,2,110000,7,3,4,7,Dodge|Frenzy|Jump Up,GA,SP
+Dwarf,Blockers,0,16,70000,4,3,2,9,Block|Tackle|Thick Skull,GS,AP
+Dwarf,Runners,0,2,80000,6,3,3,8,Sure Hands|Thick Skull,GP,AS
+Dwarf,Blitzers,0,2,80000,5,3,3,9,Block|Thick Skull,GS,AP
+Dwarf,Troll Slayers,0,2,90000,5,3,2,8,Block|Dauntless|Frenzy|Thick Skull,GS,AP
+Dwarf,Deathroller,0,1,160000,4,7,1,10,Break Tackle|Dirty Player|Juggernaut|Loner|Mighty Blow|No Hands|Secret Weapon|Stand Firm,S,GAP
+Elven Union,Linemen,0,16,60000,6,3,4,7,,GA,SP
+Elven Union,Throwers,0,2,70000,6,3,4,7,Pass,GAP,S
+Elven Union,Catchers,0,4,100000,8,3,4,7,Catch|Nerves of Steel,GA,SP
+Elven Union,Blitzers,0,2,110000,7,3,4,8,Block|Side Step,GA,SP
+Goblin,Goblins,0,16,40000,6,2,3,7,Dodge|Right Stuff|Stunty,A,GSP
+Goblin,Bomma,0,1,40000,6,2,3,7,Bombardier|Dodge|Secret Weapon|Stunty,A,GSP
+Goblin,Looney,0,1,40000,6,2,3,7,Chainsaw|Secret Weapon|Stunty,A,GSP
+Goblin,Fanatic,0,1,70000,3,7,3,7,Ball & Chain|No Hands|Secret Weapon|Stunty,S,GAP
+Goblin,Doom Diver,0,1,60000,6,2,3,7,Right Stuff|Stunty|Swoop,A,GSP
+Goblin,Pogoer,0,1,70000,7,2,3,7,Dodge|Leap|Stunty|Very Long Legs,A,GSP
+Goblin,’Ooligan,0,1,70000,6,2,3,7,Disturbing Presence|Dodge|Fan Favourite|Right Stuff|Stunty,A,GSP
+Goblin,Trolls,0,2,110000,4,5,1,9,Always Hungry|Loner|Mighty Blow|Really Stupid|Regeneration|Throw Team-mate,S,GAP
+Halfling,Halfling Hopefuls,0,16,30000,5,2,3,6,Dodge|Right Stuff|Stunty,A,GSP
+Halfling,Treemen,0,2,120000,2,6,1,10,Mighty Blow|Stand Firm|Strong Arm|Take Root|Thick Skull|Throw Team-Mate|Timmm-ber!,S,GAP
+Human,Linemen,0,16,50000,6,3,3,8,G,ASP
+Human,Catchers,0,4,60000,8,2,3,7,Catch|Dodge,GA,SP
+Human,Throwers,0,2,70000,6,3,3,8,Pass|Sure Hands,GP,AS
+Human,Blitzers,0,4,90000,7,3,3,8,Block,GS,AP
+Human,Ogre,0,1,140000,5,5,2,9,Bone-head|Loner|Mighty Blow|Thick Skull|Throw Team-mate,S,GAP
+High Elf,Linemen,0,16,70000,6,3,4,8,,GA,SP
+High Elf,Throwers,0,2,90000,6,3,4,8,Pass|Safe Throw,GAP,S
+High Elf,Catchers,0,4,90000,8,3,4,7,Catch,GA,SP
+High Elf,Blitzers,0,2,100000,7,3,4,8,Block,GA,SP
+Khemri,Skeleton Linemen,0,16,40000,5,3,2,7,Regeneration|Thick Skull,G,ASP
+Khemri,Anointed Throwers,0,2,70000,6,3,2,7,Pass|Regeneration|Sure Hands,GP,AS
+Khemri,Anointed Blitzers,0,2,90000,6,3,2,8,Block|Regeneration,GS,AP
+Khemri,Tomb Guardians,0,4,100000,4,5,1,9,Decay|Regeneration,S,GAP
+Lizardmen,Skink Runners,0,16,60000,8,2,3,7,Dodge|Stunty,A,GSP
+Lizardmen,Saurus Blockers,0,6,80000,6,4,1,9,,GS,AP
+Lizardmen,Kroxigor,0,1,140000,6,5,1,9,Bone-head|Loner|Mighty Blow|Prehensile Tail|Thick Skull,S,GAP
+Norse,Norse Linemen,0,16,50000,6,3,3,7,Block,G,ASP
+Norse,Norse Throwers,0,2,70000,6,3,3,7,Block|Pass,GP,AS
+Norse,Norse Catchers,0,2,90000,7,3,3,7,Block|Dauntless,GA,SP
+Norse,Norse Berserkers,0,2,90000,6,3,3,7,Block|Frenzy|Jump Up,GS,AP
+Norse,Ulfwerenar,0,2,110000,6,4,2,8,Frenzy,GS,AP
+Norse,Yhetee,0,1,140000,5,5,1,8,Claws|Disturbing Presence|Frenzy|Loner|Wild Animal,S,GAP
+Necromantic,Zombies,0,16,40000,4,3,2,8,Regeneration,G,ASP
+Necromantic,Ghoul Runners,0,2,70000,7,3,3,7,Dodge,GA,SP
+Necromantic,Wight Blitzers,0,2,90000,6,3,3,8,Block|Regeneration,GS,AP
+Necromantic,Flesh Golems,0,2,110000,4,4,2,9,Regeneration|Stand Firm|Thick Skull,GS,AP
+Necromantic,Werewolves,0,2,120000,8,3,3,8,Claws|Frenzy|Regeneration,GA,SP
+Nurgle,Rotters,0,16,40000,5,3,3,8,Decay|Nurgle’s Rot,GM,ASP
+Nurgle,Pestigors,0,4,80000,6,3,3,8,Horns|Nurgle’s Rot|Regeneration,GSM,AP
+Nurgle,Bloaters,0,4,110000,4,4,2,9,Disturbing Presence|Foul Appearance|Nurgle’s Rot|Regeneration,GSM,AP
+Nurgle,Rotspawn,0,1,140000,4,5,1,9,Disturbing Presence|Foul Appearance|Loner|Mighty Blow|Nurgle’s Rot|Really Stupid|Regeneration|Tentacles,S,GAPM
+Orc,Linemen,0,16,50000,5,3,3,9,G,ASP
+Orc,Goblins,0,4,40000,6,2,3,7,Dodge|Right Stuff|Stunty,A,GSP
+Orc,Throwers,0,2,70000,5,3,3,8,Pass|Sure Hands,GP,AS
+Orc,Black Orc Blockers,0,4,80000,4,4,2,9,GS,AP
+Orc,Blitzers,0,4,80000,6,3,3,9,Block,GS,AP
+Orc,Troll,0,1,110000,4,5,1,9,Always Hungry|Loner|Mighty Blow|Really Stupid|Regeneration|Throw Team-mate,S,GAP
+Shambling Undead,Skeleton Linemen,0,16,40000,5,3,2,7,Regeneration|Thick Skull,G,ASP
+Shambling Undead,Zombies,0,16,40000,4,3,2,8,Regeneration,G,ASP
+Shambling Undead,Ghoul Runners,0,4,70000,7,3,3,7,Dodge,GA,SP
+Shambling Undead,Wight Blitzers,0,2,90000,6,3,3,8,Block|Regeneration,GS,AP
+Shambling Undead,Mummies,0,2,120000,3,5,1,9,Mighty Blow|Regeneration,S,GAP
+Skaven,Linemen,0,16,50000,7,3,3,7,,G,ASPM
+Skaven,Throwers,0,2,70000,7,3,3,7,Pass|Sure Hands,GP,ASM
+Skaven,Gutter Runners,0,4,80000,9,2,4,7,Dodge|Weeping Dagger,GA,SPM
+Skaven,Blitzers,0,2,90000,7,3,3,8,Block,GS,APM
+Skaven,Rat Ogre,0,1,150000,6,5,2,8,Frenzy|Loner|Mighty Blow|Prehensile Tail|Wild Animal,S,GAPM
+Ogre,Runts,0,16,20000,5,1,3,5,Dodge|Right Stuff|Side Step|Stunty|Titchy,A,GSP
+Ogre,Ogres,0,6,140000,5,5,2,9,Bone-head|Mighty Blow|Thick Skull|Throw Team-Mate,S,GAP
+Underworld Denizens,Goblins,0,12,40000,6,2,3,7,Dodge|Right Stuff|Stunty,AM,GSP
+Underworld Denizens,Skaven Linemen,0,2,50000,7,3,3,7,Animosity,GM,ASP
+Underworld Denizens,Skaven Throwers,0,2,70000,7,3,3,7,Animosity|Pass|Sure Hands,GPM,AS
+Underworld Denizens,Skaven Blitzers,0,2,90000,7,3,3,8,Animosity|Block,GSM,AP
+Underworld Denizens,Troll,0,1,110000,4,5,1,9,Always Hungry|Loner|Mighty Blow|Really Stupid|Regeneration|Throw Team-mate,SM,GAP
+Wood Elf,Lineman,0,16,70000,7,3,4,7,,GA,SP
+Wood Elf,Catchers,0,4,90000,8,2,4,7,Catch|Dodge|Sprint,GA,SP
+Wood Elf,Throwers,0,2,90000,7,3,4,7,Pass,GAP,S
+Wood Elf,Wardancers,0,2,120000,8,3,4,7,Block|Dodge|Leap,GA,SP
+Wood Elf,Treeman,0,1,120000,2,6,1,10,Loner|Mighty Blow|Stand Firm|Strong Arm|Take Root|Thick Skull|Throw Team-mate,S,GAP
+Vampire,Thrall Linemen,0,16,40000,6,3,3,7,,G,ASP
+Vampire,Vampire Blitzers,0,6,110000,6,4,4,8,Blood Lust|Hypnotic Gaze|Regeneration,GAS,P
